@@ -1,3 +1,4 @@
+## Cloud
 
 ### Used services
 
@@ -9,6 +10,8 @@
 |[Amazon RDS](https://aws.amazon.com/rds/)| Used to easily set up, manage, and scale a relational database in the cloud for your web service
 |[Amazon Cognito](https://aws.amazon.com/cognito/)| Handles user signup and login for your website
 <br>
+
+## Frontend
 
 ### Used services
 
