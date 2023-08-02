@@ -3,7 +3,7 @@
 ### Used services
 
 | Used Technology | Purpose |
-|:---------------:|:-------:|
+|:---:|:---:|
 |[Amazon Route53](https://aws.amazon.com/route53/)| Used to convert the EC2 given URL into a direct, user-friendly URL
 |[Amazon S3](https://aws.amazon.com/s3/)| Stores files and data for your website or app
 |[Amazon EC2](https://aws.amazon.com/ec2/)| Used to publish and host the service
@@ -16,7 +16,7 @@
 ### Used services
 
 | Used Technology | Purpose |
-|:---------------:|:-------:|
+|:---:|:---:|
 |[mui/material](https://mui.com/)| Used to create UI elements like dropdown lists
 |[amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js)| Helps with user login, managing profiles, and sharing data between users in your web service
 |[crypto-js](https://github.com/brix/crypto-js)| Used to encode and decode URLs for added security
